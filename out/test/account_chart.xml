@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+  <record id="chart_skr49_0705" model="account.account.template">
+    <field name="name">Geldtransit</field>
+    <field name="code">0705</field>
+    <field eval="True" name="reconcile"/>
+    <field name="user_type_id" ref="account.data_account_type_current_assets"/>
+    <field eval="[(6,0,[ref('account_tag_skr49_003'), ref('account_tag_skr49_009')])]" name="tag_ids"/>
+  </record>
+  <record id="l10n_chart_de_skr49" model="account.chart.template">
+    <field name="name">Deutscher Kontenplan SKR49</field>
+    <field name="currency_id" ref="base.EUR"/>
+    <field name="transfer_account_id" ref="chart_skr49_0705"/>
+  </record>
+  <record id="chart_skr49_0705" model="account.account.template">
+    <field name="chart_template_id" ref="l10n_chart_de_skr49"/>
+  </record>
+  <record id="chart_skr49_0010" model="account.account.template">
+    <field name="name">Entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten</field>
+    <field name="code">0010</field>
+    <field eval="False" name="reconcile"/>
+    <field name="user_type_id" ref="account.data_account_type_non_current_assets"/>
+    <field name="chart_template_id" ref="l10n_chart_de_skr49"/>
+    <field eval="[(6,0,[ref('account_tag_skr49_001'), ref('account_tag_skr49_004')])]" name="tag_ids"/>
+  </record>
+  <record id="chart_skr49_0015" model="account.account.template">
+    <field name="name">Konzessionen</field>
+    <field name="code">0015</field>
+    <field eval="False" name="reconcile"/>
+    <field name="user_type_id" ref="account.data_account_type_equity"/>
+    <field name="chart_template_id" ref="l10n_chart_de_skr49"/>
+    <field eval="[(6,0,[ref('account_tag_skr49_001'), ref('account_tag_skr49_005')])]" name="tag_ids"/>
+  </record>
+  <record id="chart_skr49_0020" model="account.account.template">
+    <field name="name">Gewerbliche Schutzrechte</field>
+    <field name="code">0020</field>
+    <field eval="False" name="reconcile"/>
+    <field name="user_type_id" ref="account.data_account_type_non_current_assets"/>
+    <field name="chart_template_id" ref="l10n_chart_de_skr49"/>
+    <field eval="[(6,0,[ref('account_tag_skr49_002'), ref('account_tag_skr49_006')])]" name="tag_ids"/>
+  </record>
+  <record id="chart_skr49_0025" model="account.account.template">
+    <field name="name">ähnliche Rechte und Werte</field>
+    <field name="code">0025</field>
+    <field eval="True" name="reconcile"/>
+    <field name="user_type_id" ref="account.data_account_type_non_current_assets"/>
+    <field name="chart_template_id" ref="l10n_chart_de_skr49"/>
+    <field eval="[(6,0,[ref('account_tag_skr49_002'), ref('account_tag_skr49_007')])]" name="tag_ids"/>
+  </record>
+  <record id="chart_skr49_0026" model="account.account.template">
+    <field name="name">Rechtswerte</field>
+    <field name="code">0026</field>
+    <field eval="False" name="reconcile"/>
+    <field name="user_type_id" ref="account.data_account_type_non_current_assets"/>
+    <field name="chart_template_id" ref="l10n_chart_de_skr49"/>
+    <field eval="[(6,0,[ref('account_tag_skr49_002'), ref('account_tag_skr49_008')])]" name="tag_ids"/>
+  </record>
+  <record id="chart_skr49_0027" model="account.account.template">
+    <field name="name">EDV-Software</field>
+    <field name="code">0027</field>
+    <field eval="False" name="reconcile"/>
+    <field name="user_type_id" ref="account.data_account_type_non_current_assets"/>
+    <field name="chart_template_id" ref="l10n_chart_de_skr49"/>
+    <field eval="[(6,0,[ref('account_tag_skr49_003'), ref('account_tag_skr49_008')])]" name="tag_ids"/>
+  </record>
+  <record id="chart_skr49_0030" model="account.account.template">
+    <field name="name">Lizenzen an gewerblichen Schutzrechten</field>
+    <field name="code">0030</field>
+    <field eval="False" name="reconcile"/>
+    <field name="user_type_id" ref="account.data_account_type_non_current_assets"/>
+    <field name="chart_template_id" ref="l10n_chart_de_skr49"/>
+    <field eval="[(6,0,[ref('account_tag_skr49_003'), ref('account_tag_skr49_009')])]" name="tag_ids"/>
+  </record>
+  <record id="chart_skr49_0035" model="account.account.template">
+    <field name="name">Geschäfts- oder Firmenwert</field>
+    <field name="code">0035</field>
+    <field eval="True" name="reconcile"/>
+    <field name="user_type_id" ref="account.data_account_type_non_current_assets"/>
+    <field name="chart_template_id" ref="l10n_chart_de_skr49"/>
+    <field eval="[(6,0,[ref('account_tag_skr49_003'), ref('account_tag_skr49_009')])]" name="tag_ids"/>
+  </record>
+  <record id="chart_skr49_0650" model="account.account.template">
+    <field name="name">the 0650</field>
+    <field name="code">0650</field>
+    <field eval="True" name="reconcile"/>
+    <field name="user_type_id" ref="account.data_account_type_current_assets"/>
+    <field name="chart_template_id" ref="l10n_chart_de_skr49"/>
+    <field eval="[(6,0,[ref('account_tag_skr49_003'), ref('account_tag_skr49_009')])]" name="tag_ids"/>
+  </record>
+  <record id="chart_skr49_1340" model="account.account.template">
+    <field name="name">the 1340</field>
+    <field name="code">1340</field>
+    <field eval="True" name="reconcile"/>
+    <field name="user_type_id" ref="account.data_account_type_current_assets"/>
+    <field name="chart_template_id" ref="l10n_chart_de_skr49"/>
+    <field eval="[(6,0,[ref('account_tag_skr49_003'), ref('account_tag_skr49_009')])]" name="tag_ids"/>
+  </record>
+  <record id="chart_skr49_8155" model="account.account.template">
+    <field name="name">the 8155</field>
+    <field name="code">8155</field>
+    <field eval="True" name="reconcile"/>
+    <field name="user_type_id" ref="account.data_account_type_current_assets"/>
+    <field name="chart_template_id" ref="l10n_chart_de_skr49"/>
+    <field eval="[(6,0,[ref('account_tag_skr49_003'), ref('account_tag_skr49_009')])]" name="tag_ids"/>
+  </record>
+  <record id="chart_skr49_8030" model="account.account.template">
+    <field name="name">the 8030</field>
+    <field name="code">8030</field>
+    <field eval="True" name="reconcile"/>
+    <field name="user_type_id" ref="account.data_account_type_current_assets"/>
+    <field name="chart_template_id" ref="l10n_chart_de_skr49"/>
+    <field eval="[(6,0,[ref('account_tag_skr49_003'), ref('account_tag_skr49_009')])]" name="tag_ids"/>
+  </record>
+  <record id="chart_skr49_4154" model="account.account.template">
+    <field name="name">the 4154</field>
+    <field name="code">4154</field>
+    <field eval="True" name="reconcile"/>
+    <field name="user_type_id" ref="account.data_account_type_current_assets"/>
+    <field name="chart_template_id" ref="l10n_chart_de_skr49"/>
+    <field eval="[(6,0,[ref('account_tag_skr49_003'), ref('account_tag_skr49_009')])]" name="tag_ids"/>
+  </record>
+  <record id="chart_skr49_4715" model="account.account.template">
+    <field name="name">the 4715</field>
+    <field name="code">4715</field>
+    <field eval="True" name="reconcile"/>
+    <field name="user_type_id" ref="account.data_account_type_current_assets"/>
+    <field name="chart_template_id" ref="l10n_chart_de_skr49"/>
+    <field eval="[(6,0,[ref('account_tag_skr49_003'), ref('account_tag_skr49_009')])]" name="tag_ids"/>
+  </record>
+  <record id="chart_skr49_1234" model="account.account.template">
+    <field name="name">the deprecated one</field>
+    <field name="code">1234</field>
+    <field eval="True" name="reconcile"/>
+    <field eval="True" name="deprecated"/>
+    <field name="user_type_id" ref="account.data_account_type_current_assets"/>
+    <field name="chart_template_id" ref="l10n_chart_de_skr49"/>
+    <field eval="[(6,0,[ref('account_tag_skr49_003'), ref('account_tag_skr49_009')])]" name="tag_ids"/>
+  </record>
+  <record id="chart_skr49_1235" model="account.account.template">
+    <field name="name">just one tag</field>
+    <field name="code">1235</field>
+    <field eval="True" name="reconcile"/>
+    <field name="user_type_id" ref="account.data_account_type_current_assets"/>
+    <field name="chart_template_id" ref="l10n_chart_de_skr49"/>
+    <field eval="[(6,0,[ref('account_tag_skr49_003')])]" name="tag_ids"/>
+  </record>
+  <record id="chart_skr49_1236" model="account.account.template">
+    <field name="name">without any tags</field>
+    <field name="code">1236</field>
+    <field eval="True" name="reconcile"/>
+    <field name="user_type_id" ref="account.data_account_type_current_assets"/>
+    <field name="chart_template_id" ref="l10n_chart_de_skr49"/>
+  </record>
+  <record id="l10n_chart_de_skr49" model="account.chart.template">
+    <field name="cash_account_code_prefix">0920</field>
+    <field name="bank_account_code_prefix">0945</field>
+    <field name="property_account_receivable_id" ref="chart_skr49_0650"/>
+    <field name="property_account_payable_id" ref="chart_skr49_1340"/>
+    <field name="property_account_expense_categ_id" ref="chart_skr49_8155"/>
+    <field name="property_account_income_categ_id" ref="chart_skr49_8030"/>
+    <field name="income_currency_exchange_account_id" ref="chart_skr49_4154"/>
+    <field name="expense_currency_exchange_account_id" ref="chart_skr49_4715"/>
+  </record>
+</odoo>

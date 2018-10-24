@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+  <record id="account_tag_skr49_001" model="account.account.tag">
+    <field name="name">Sonstige Anlagen und Ausstattung</field>
+    <field name="applicability">accounts</field>
+  </record>
+  <record id="account_tag_skr49_002" model="account.account.tag">
+    <field name="name">Entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten</field>
+    <field name="applicability">accounts</field>
+  </record>
+  <record id="account_tag_skr49_003" model="account.account.tag">
+    <field name="name">Wertpapiere</field>
+    <field name="applicability">taxes</field>
+  </record>
+  <record id="account_tag_skr49_004" model="account.account.tag">
+    <field name="name">Immaterielle Vermögensgegenstände</field>
+    <field name="applicability">accounts</field>
+  </record>
+  <record id="account_tag_skr49_005" model="account.account.tag">
+    <field name="name">Sachanlagen</field>
+    <field name="applicability">accounts</field>
+  </record>
+  <record id="account_tag_skr49_006" model="account.account.tag">
+    <field name="name">Geschäfts- oder Firmenwert</field>
+    <field name="applicability">accounts</field>
+  </record>
+  <record id="account_tag_skr49_007" model="account.account.tag">
+    <field name="name">Grundstücke, Grundstücksgleiche Rechte und Bauten</field>
+    <field name="applicability">accounts</field>
+  </record>
+  <record id="account_tag_skr49_008" model="account.account.tag">
+    <field name="name">Ausleihungen an verbundene Unternehmen</field>
+    <field name="applicability">accounts</field>
+  </record>
+  <record id="account_tag_skr49_009" model="account.account.tag">
+    <field name="name">Beteiligungen</field>
+    <field name="applicability">accounts</field>
+  </record>
+</odoo>
