@@ -32,9 +32,9 @@ def add_more_chart_attributes(accounts, data):
     chart2 = SubElement(data, 'record', {'id': chart_template_id, 'model': 'account.chart.template'})
     SubElement(chart2, 'field', {'name': 'cash_account_code_prefix'}).text = '0920'
     SubElement(chart2, 'field', {'name': 'bank_account_code_prefix'}).text = '0945'
-    SubElement(chart2, 'field', {'name': 'property_account_receivable_id', 'ref': find_account(accounts, '0650').id})
-    SubElement(chart2, 'field', {'name': 'property_account_payable_id', 'ref': find_account(accounts, '1340').id})
-    SubElement(chart2, 'field', {'name': 'property_account_expense_categ_id', 'ref': find_account(accounts, '8155').id})
+    SubElement(chart2, 'field', {'name': 'property_account_receivable_id', 'ref': find_account(accounts, '0652').id})
+    SubElement(chart2, 'field', {'name': 'property_account_payable_id', 'ref': find_account(accounts, '1346').id})
+    SubElement(chart2, 'field', {'name': 'property_account_expense_categ_id', 'ref': find_account(accounts, '8154').id})
     SubElement(chart2, 'field', {'name': 'property_account_income_categ_id', 'ref': find_account(accounts, '8030').id})
     SubElement(chart2, 'field',
                {'name': 'income_currency_exchange_account_id', 'ref': find_account(accounts, '4154').id})
