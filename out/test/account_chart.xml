@@ -79,25 +79,25 @@
     <field name="chart_template_id" ref="l10n_chart_de_skr49"/>
     <field eval="[(6,0,[ref('account_tag_skr49_003'), ref('account_tag_skr49_009')])]" name="tag_ids"/>
   </record>
-  <record id="chart_skr49_0650" model="account.account.template">
-    <field name="name">the 0650</field>
-    <field name="code">0650</field>
+  <record id="chart_skr49_0652" model="account.account.template">
+    <field name="name">the 0652</field>
+    <field name="code">0652</field>
     <field eval="True" name="reconcile"/>
     <field name="user_type_id" ref="account.data_account_type_current_assets"/>
     <field name="chart_template_id" ref="l10n_chart_de_skr49"/>
     <field eval="[(6,0,[ref('account_tag_skr49_003'), ref('account_tag_skr49_009')])]" name="tag_ids"/>
   </record>
   <record id="chart_skr49_1340" model="account.account.template">
-    <field name="name">the 1340</field>
-    <field name="code">1340</field>
+    <field name="name">the 1346</field>
+    <field name="code">1346</field>
     <field eval="True" name="reconcile"/>
     <field name="user_type_id" ref="account.data_account_type_current_assets"/>
     <field name="chart_template_id" ref="l10n_chart_de_skr49"/>
     <field eval="[(6,0,[ref('account_tag_skr49_003'), ref('account_tag_skr49_009')])]" name="tag_ids"/>
   </record>
-  <record id="chart_skr49_8155" model="account.account.template">
-    <field name="name">the 8155</field>
-    <field name="code">8155</field>
+  <record id="chart_skr49_8154" model="account.account.template">
+    <field name="name">the 8154</field>
+    <field name="code">8154</field>
     <field eval="True" name="reconcile"/>
     <field name="user_type_id" ref="account.data_account_type_current_assets"/>
     <field name="chart_template_id" ref="l10n_chart_de_skr49"/>
@@ -154,9 +154,9 @@
   <record id="l10n_chart_de_skr49" model="account.chart.template">
     <field name="cash_account_code_prefix">0920</field>
     <field name="bank_account_code_prefix">0945</field>
-    <field name="property_account_receivable_id" ref="chart_skr49_0650"/>
+    <field name="property_account_receivable_id" ref="chart_skr49_0652"/>
     <field name="property_account_payable_id" ref="chart_skr49_1340"/>
-    <field name="property_account_expense_categ_id" ref="chart_skr49_8155"/>
+    <field name="property_account_expense_categ_id" ref="chart_skr49_8154"/>
     <field name="property_account_income_categ_id" ref="chart_skr49_8030"/>
     <field name="income_currency_exchange_account_id" ref="chart_skr49_4154"/>
     <field name="expense_currency_exchange_account_id" ref="chart_skr49_4715"/>

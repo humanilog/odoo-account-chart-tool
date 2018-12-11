@@ -2,7 +2,7 @@ from collections import namedtuple
 from typing import List
 from xml.etree.ElementTree import Element, SubElement
 
-Account = namedtuple('Chart', 'id code name reconcile deprecated userType tag1 tag2')
+Account = namedtuple('Chart', 'id code name reconcile deprecated user_type_id tag_id1 tag_id2 tag_id3')
 
 chart_template_id = "l10n_chart_de_skr49"
 account_705_code = "0705"
@@ -60,11 +60,11 @@ def create_account_record(account, data):
     SubElement(record, 'field', {'name': 'reconcile', 'eval': account.reconcile.title()})
     if account.deprecated.title() == "True":
         SubElement(record, 'field', {'name': 'deprecated', 'eval': account.deprecated.title()})
-    SubElement(record, 'field', {'name': 'user_type_id', 'ref': "account.{}".format(account.userType)})
+    SubElement(record, 'field', {'name': 'user_type_id', 'ref': "account.{}".format(account.user_type_id)})
     if account.code != account_705_code:
         SubElement(record, 'field', {'name': 'chart_template_id', 'ref': chart_template_id})
-    if account.tag1 or account.tag2:
-        SubElement(record, 'field', {'name': 'tag_ids', 'eval': create_tag_reference([account.tag1, account.tag2])})
+    if account.tag_id1 or account.tag_id2 or account.tag_id3:
+        SubElement(record, 'field', {'name': 'tag_ids', 'eval': create_tag_reference([account.tag_id1, account.tag_id2, account.tag_id3])})
 
 
 def create_tag_reference(tagRefs):

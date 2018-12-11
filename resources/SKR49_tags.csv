@@ -1,199 +1,242 @@
 id;name;applicability
-account_tag_skr49_001;Immaterielle Vermögensgegenstände;accounts
-account_tag_skr49_002;Sachanlagen;accounts
-account_tag_skr49_003;Andere Anlagen, Betriebs- und Geschäftsausstattung;accounts
-account_tag_skr49_004;Finanzanlagen;accounts
-account_tag_skr49_005;Vorräte;accounts
-account_tag_skr49_006;Forderungen, sonstige Vermögensgegenstände;accounts
-account_tag_skr49_007;Wertpapiere;accounts
-account_tag_skr49_008;Gewinnrücklagen;accounts
-account_tag_skr49_009;Ergebnisvorträge;accounts
-account_tag_skr49_010;Umschichtungsergebnisse;accounts
-account_tag_skr49_011;Ergebnisrücklagen (nur Stiftungen);accounts
-account_tag_skr49_012;Gezeichnetes Kapital;accounts
-account_tag_skr49_013;Kapitalrücklage (GmbH und Stiftung);accounts
-account_tag_skr49_014;Gewinnrücklagen (nur GmbH);accounts
-account_tag_skr49_015;Jahresüberschuss/-fehlbetrag;accounts
-account_tag_skr49_016;Sonderposten;accounts
-account_tag_skr49_017;Rückstellungen;accounts
-account_tag_skr49_018;Förderungsverpflichtungen;accounts
-account_tag_skr49_019;Erfolgskonten für Ideellen Bereich = Einnahmen und Ausgaben gemeinnütziger Vereine und nicht gemeinnütziger Vereine, die keiner Einkunftsart zuzurechnen sind (Tätigkeitsbereich 2000);accounts
-account_tag_skr49_020;Nicht anzusetzende Ausgaben;accounts
-account_tag_skr49_021;Ideeller Bereich;accounts
-account_tag_skr49_022;Vermögensverwaltung;accounts
-account_tag_skr49_023;Zweckbetriebe Sport;accounts
-account_tag_skr49_024;Sonstige Zweckbetriebe;accounts
-account_tag_skr49_025;Geschäftsbetriebe Sport;accounts
-account_tag_skr49_026;Sonstige wirtschaftliche Geschäftsbetriebe;accounts
-account_tag_skr49_027;Für alle gemeinnützigen Körperschaften;accounts
-account_tag_skr49_028;Zusätzlich für GmbHs und Stiftungen:;accounts
-account_tag_skr49_029;Zusätzlich für Stiftungen:;accounts
-account_tag_skr49_030;Zusätzlich für gemeinnützige GmbHs:;accounts
-account_tag_skr49_031;Zusätzlich für Vereine:;accounts
-account_tag_skr49_032;Einnahmen GV;accounts
-account_tag_skr49_033;Einnahmen NGV;accounts
-account_tag_skr49_034;Ausgaben / Werbungskosten;accounts
-account_tag_skr49_035;Personalaufwand;accounts
-account_tag_skr49_036;Umsatzerlöse;accounts
-account_tag_skr49_037;Sonstige betriebliche Erträge;accounts
-account_tag_skr49_038;Materialaufwand;accounts
-account_tag_skr49_039;Abschreibungen;accounts
-account_tag_skr49_040;Sonstige betriebliche Aufwendungen;accounts
-account_tag_skr49_041;Erfolgskonten für andere ertragsteuerfreie Zweckbetriebe = Betriebseinnahmen und Betriebsausgaben aus anderen steuerbegünstigten Zweckbetrieben gemeinnütziger Vereine wie Kultur, Lotterien und Ausspielungen u. a. (Tätigkeitsbereich 6000);accounts
-account_tag_skr49_042;Erfolgskonten für andere ertragsteuerfreie Zweckbetriebe = Betriebseinnahmen und Betriebsausgaben aus anderen steuerbegünstigten Zweckbetrieben gemeinnütziger Vereine wie Kultur, Lotterien und Ausspielungen u. a. (Tätigkeitsbereich 6500);accounts
-account_tag_skr49_043;Erfolgskonten für andere steuerpflichtige Geschäftsbetriebe = Betriebseinnahmen und Betriebsausgaben aus anderen nicht steuerbegünstigten wirtschaftlichen Geschäftsbetrieben gemeinnütziger Vereine und nicht gemeinnütziger Vereine (Tätigkeitsbereich 8000);accounts
-account_tag_skr49_044;Erfolgskonten für andere steuerpflichtige Geschäftsbetriebe = Betriebseinnahmen und Betriebsausgaben aus anderen nicht steuerbegünstigten wirtschaftlichen Geschäftsbetrieben gemeinnütziger Vereine und nicht gemeinnütziger Vereine (Tätigkeitsbereich 8500);accounts
-account_tag_skr49_045;Erfolgskonten für umgewandelte Geschäftsbetriebe;accounts
-account_tag_skr49_046;Vortragskonten - Statistische Konten - Umsatzsteuerabgrenzung;accounts
-account_tag_skr49_047;Entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten;accounts
-account_tag_skr49_048;Geschäfts- oder Firmenwert;accounts
-account_tag_skr49_049;Geleistete Anzahlungen;accounts
-account_tag_skr49_050;Grundstücke, Grundstücksgleiche Rechte und Bauten;accounts
-account_tag_skr49_051;Gebäude;accounts
-account_tag_skr49_052;Technische Anlagen und Maschinen;accounts
-account_tag_skr49_053;Fahrzeuge, Transportmittel;accounts
-account_tag_skr49_054;Vereinsausstattung/Sonstige Anlagen und Ausstattung (Stiftung/GmbH);accounts
-account_tag_skr49_055;Sonstige Anlagen und Ausstattung;accounts
-account_tag_skr49_056;Geleistete Anzahlungen, Anlagen im Bau;accounts
-account_tag_skr49_057;Anteile an verbundenen Unternehmen;accounts
-account_tag_skr49_058;Ausleihungen an verbundene Unternehmen;accounts
-account_tag_skr49_059;Beteiligungen;accounts
-account_tag_skr49_060;Ausleihungen an Unternehmen, mit denen ein Beteiligungsverhältnis besteht;accounts
-account_tag_skr49_061;Wertpapiere des Anlagevermögens;accounts
-account_tag_skr49_062;Sonstige Ausleihungen;accounts
-account_tag_skr49_063;Roh-, Hilfs- und Betriebsstoffe;accounts
-account_tag_skr49_064;Unfertige Erzeugnisse, Leistungen;accounts
-account_tag_skr49_065;Fertige Erzeugnisse, Waren;accounts
-account_tag_skr49_066;Erhaltene Anzahlungen;accounts
-account_tag_skr49_067;Eingeforderte, noch ausstehende Kapitaleinlagen (gGmbH/Stiftung);accounts
-account_tag_skr49_068;Eingeforderte Nachschüsse (gGmbH);accounts
-account_tag_skr49_069;Forderungen aus Lieferungen und Leistungen oder sonstige Verbindlichkeiten;accounts
-account_tag_skr49_070;Forderungen aus Lieferungen und Leistungen;accounts
-account_tag_skr49_071;Forderungen gegen verbundene Unternehmen;accounts
-account_tag_skr49_072;Forderungen gegen Unternehmen, mit denen ein Beteiligungsverhältnis besteht;accounts
-account_tag_skr49_073;Forderungen gegen verbundene Unternehmen oder Verbindlichkeiten gegenüber verbundenen Unternehmen;accounts
-account_tag_skr49_074;Forderungen gegen Unternehmen, mit denen ein Beteiligungsverhältnis besteht oder Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht;accounts
-account_tag_skr49_075;Sonstige Vermögensgegenstände;accounts
-account_tag_skr49_076;Sonstige Vermögensgegenstände oder sonstige Verbindlichkeiten;accounts
-account_tag_skr49_077;Sonstige Verbindlichkeiten;accounts
-account_tag_skr49_078;Saldo USt-Konten (nur Überschussrechner);accounts
-account_tag_skr49_079;Sonstige Vermögensgegenstände oder sonstige Verbindlichkeiten (Überschussrechner - keine Zuordnung);accounts
-account_tag_skr49_080;Sonstige Vermögensgegenstände (Überschussrechner - keine Zuordnung);accounts
-account_tag_skr49_081;Sonstige Vermögensgegenstände oder sonstige Verbindlichkeiten (Saldo USt-Konten - Überschussrechner);accounts
-account_tag_skr49_082;Sonstige Vermögensgegenstände oder sonstige Verbindlichkeiten (Saldo USt-Konten -Überschussrechner);accounts
-account_tag_skr49_083;Sonstige Wertpapiere;accounts
-account_tag_skr49_084;Kasse, Bank;accounts
-account_tag_skr49_085;Kasse, Bank oder Verbindlichkeiten gegenüber Kreditinstituten;accounts
-account_tag_skr49_086;Rechnungsabgrenzungsposten;accounts
-account_tag_skr49_087;Gebundene Rücklagen;accounts
-account_tag_skr49_088;Freie Rücklagen;accounts
-account_tag_skr49_089;Sonstige Rücklagen;accounts
-account_tag_skr49_090;Ergebnisvortrag allgemein;accounts
-account_tag_skr49_091;Vortrag ideeller Bereich;accounts
-account_tag_skr49_092;Vortrag Vermögensverwaltung;accounts
-account_tag_skr49_093;Vortrag Zweckbetriebe Sport;accounts
-account_tag_skr49_094;Vortrag sonstige Zweckbetriebe;accounts
-account_tag_skr49_095;Vortrag Geschäftsbetriebe Sport;accounts
-account_tag_skr49_096;Vortrag sonstige Geschäftsbetriebe;accounts
-account_tag_skr49_097;Nutzungsgebundenes Kapital;accounts
-account_tag_skr49_098;Ergebnisse Vermögensumschichtung;accounts
-account_tag_skr49_099;Kapitalerhaltungsrücklage;accounts
-account_tag_skr49_100;Ansparrücklage;accounts
-account_tag_skr49_101;Sonstige Ergebnisrücklagen;accounts
-account_tag_skr49_102;Ergebnisvortrag;accounts
-account_tag_skr49_103;Gezeichnetes Kapital (nur GmbH);accounts
-account_tag_skr49_104;Nicht eingeforderte ausstehende Einlagen (GmbH und Stiftung);accounts
-account_tag_skr49_105;Kapitalrücklage;accounts
-account_tag_skr49_106;Gesetzliche Rücklage;accounts
-account_tag_skr49_107;Satzungsmäßige Rücklagen;accounts
-account_tag_skr49_108;Andere Gewinnrücklagen;accounts
-account_tag_skr49_109;Gewinn-/Verlustvortrag;accounts
-account_tag_skr49_110;Vereinskapital/Sonstige nicht zeitnah zu verwendende Mittel (Stiftung/GmbH);accounts
-account_tag_skr49_111;Sonderposten mit Rücklageanteil;accounts
-account_tag_skr49_112;Längerfristig gebundene Spenden;accounts
-account_tag_skr49_113;Noch nicht satzungsgemäß verwendete Spenden;accounts
-account_tag_skr49_114;Pensionsrückstellungen;accounts
-account_tag_skr49_115;Steuerrückstellungen;accounts
-account_tag_skr49_116;Sonstige Rückstellungen;accounts
-account_tag_skr49_117;Bewilligungen (nur Stiftungen);accounts
-account_tag_skr49_118;Rückgängig gemachte Bewilligungen (nur Stiftungen);accounts
-account_tag_skr49_119;Anleihen;accounts
-account_tag_skr49_120;Erhaltene Anzahlungen auf Bestellungen;accounts
-account_tag_skr49_121;Verbindlichkeiten aus Lieferungen und Leistungen oder sonstige Vermögensgegenstände;accounts
-account_tag_skr49_122;Verbindlichkeiten aus Wechseln;accounts
-account_tag_skr49_123;Verbindlichkeiten gegenüber verbundenen Unternehmen oder Forderungen gegen verbundene Unternehmen;accounts
-account_tag_skr49_124;Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht oder Forderungen gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht;accounts
-account_tag_skr49_125;Verbindlichkeiten für satzungsgemäße Leistungen;accounts
-account_tag_skr49_126;Verbindlichkeiten aus erteilten Zusagen (nur Stiftungen);accounts
-account_tag_skr49_127;Verbindlichkeiten aus nicht zweckentsprechend verwendeten Mitteln;accounts
-account_tag_skr49_128;Verbindlichkeiten aus bedingt rückzahlungspflichtigen Spenden;accounts
-account_tag_skr49_129;Verbindlichkeiten gegenüber Kreditinstituten oder Kasse, Bank;accounts
-account_tag_skr49_130;Verbindlichkeiten gegenüber Kreditinstituten;accounts
-account_tag_skr49_131;Sonstige Verbindlichkeiten oder sonstige Vermögensgegenstände;accounts
-account_tag_skr49_132;Sonstige Verbindlichkeiten oder sonstige Vermögensgegenstände (Saldo USt-Konten - Überschussrechner);accounts
-account_tag_skr49_133;Sonstige Verbindlichkeiten (Saldo USt-Konten - Überschussrechner);accounts
-account_tag_skr49_134;Steuerrückstellungen oder sonstige Vermögensgegenstände (Überschussrechner - keine Zuordnung);accounts
-account_tag_skr49_135;Sonstige Verbindlichkeiten (Überschussrechner - keine Zuordnung);accounts
-account_tag_skr49_136;Sonstige Verbindlichkeiten oder sonstige Vermögensgegenstände (Überschussrechner - keine Zuordnung);accounts
-account_tag_skr49_137;Sonstige nicht steuerbare Einnahmen;accounts
-account_tag_skr49_138;Mitgliedsbeiträge;accounts
-account_tag_skr49_139;Aufnahmegebühren;accounts
-account_tag_skr49_140;Zuschüsse;accounts
-account_tag_skr49_141;Abschreibungen;accounts
-account_tag_skr49_142;Übrige Ausgaben;accounts
-account_tag_skr49_143;Personalkosten;accounts
-account_tag_skr49_144;Reisekosten;accounts
-account_tag_skr49_145;Raumkosten;accounts
-account_tag_skr49_146;Sonstige steuerneutrale Einnahmen;accounts
-account_tag_skr49_147;Schenkungen;accounts
-account_tag_skr49_148;Erbschaften/Vermächtnisse;accounts
-account_tag_skr49_149;Spenden;accounts
-account_tag_skr49_150;Sonstige nicht abziehbare Ausgaben;accounts
-account_tag_skr49_151;Gezahlte/hingegebene Spenden;accounts
-account_tag_skr49_152;Steuerneutrale Einnahmen;accounts
-account_tag_skr49_153;Nicht abziehbare Ausgaben;accounts
-account_tag_skr49_154;Ergebnisverwendung;accounts
-account_tag_skr49_155;Sonstige ertragsteuerfreie Einnahmen gemeinnütziger Vereine (gV);accounts
-account_tag_skr49_156;Miet- und Pachterträge (gV);accounts
-account_tag_skr49_157;Zins- und Kurserträge (gV);accounts
-account_tag_skr49_158;Erträge Werbung (gV);accounts
-account_tag_skr49_159;Sonstige ertragsteuerpflichtige Einnahmen nicht gemeinnütziger Vereine (ngV);accounts
-account_tag_skr49_160;Miet- und Pachterträge (ngV);accounts
-account_tag_skr49_161;Zins- und Kurserträge (ngV);accounts
-account_tag_skr49_162;Sonstige Ausgaben;accounts
-account_tag_skr49_163;Löhne und Gehälter;accounts
-account_tag_skr49_164;Soziale Abgaben;accounts
-account_tag_skr49_165;aus Eintrittsgeldern;accounts
-account_tag_skr49_166;aus Sportreisen;accounts
-account_tag_skr49_167;aus sonstigen sportlichen Veranstaltungen;accounts
-account_tag_skr49_168;aus Leistungen an Mitglieder;accounts
-account_tag_skr49_169;aus veranstaltungsgebundenen Zuschüssen;accounts
-account_tag_skr49_170;aus Sonstigem;accounts
-account_tag_skr49_171;Umsatzerlöse aus Sonstigem;accounts
-account_tag_skr49_172;Sonstige betriebliche Erträge;accounts
-account_tag_skr49_173;Aufwendungen für RHB/bezogene Waren;accounts
-account_tag_skr49_174;Aufwendungen für bezogene Leistungen;accounts
-account_tag_skr49_175;Immaterielle Vermögensgegenstände und Sachanlagen;accounts
-account_tag_skr49_176;Sonstige Kosten Zweckbetrieb Sport;accounts
-account_tag_skr49_177;Umlaufvermögen, unüblich hoch;accounts
-account_tag_skr49_178;Entschädigungen, Sportveranstaltungen;accounts
-account_tag_skr49_179;Kosten der Sportanlagen;accounts
-account_tag_skr49_180;Allgemeine Kosten des Sportbetriebs;accounts
-account_tag_skr49_181;Betriebskosten Fahrzeuge, Transportmittel;accounts
-account_tag_skr49_182;Betriebskosten Ausstattung, Sportgeräte;accounts
-account_tag_skr49_183;aus Sportunterricht (§ 4 Nr. 22a UStG);accounts
-account_tag_skr49_184;aus Teilnehmergebühren;accounts
-account_tag_skr49_185;aus Sportunterricht Jugendhilfe;accounts
-account_tag_skr49_186;aus sportlichen Veranstaltungen Jugendhilfe;accounts
-account_tag_skr49_187;Aufwendungen für Roh-, Hilfs- und Betriebsstoffe/bezogene Waren;accounts
-account_tag_skr49_188;Sonstoge Kosten;accounts
-account_tag_skr49_189;Sportunterricht;accounts
-account_tag_skr49_190;Darbietungen Jugendlicher und Erwachsener;accounts
-account_tag_skr49_191;Sonstige Kosten;accounts
-account_tag_skr49_192;Ergebnisumbuchung nach 8980;accounts
-account_tag_skr49_193;Umsatzerlöse;accounts
-account_tag_skr49_194;Bestandsveränderung;accounts
-account_tag_skr49_195;Andere aktivierte Eigenleistungen;accounts
-account_tag_skr49_196;Einnahmen aus Umsatzerlösen;accounts
-account_tag_skr49_197;Sonstige betriebliche Aufwendungen;accounts
-account_tag_skr49_198;Zinsen und ähnliche Aufwendungen;accounts
+account_tag_skr49_001;Ideeller Bereich;accounts
+account_tag_skr49_002;Vermögensverwaltung;accounts
+account_tag_skr49_003;Zweckbetriebe Sport 1;accounts
+account_tag_skr49_004;Zweckbetriebe Sport 2;accounts
+account_tag_skr49_005;Sonstige Zweckbetriebe 1 (UST-Pflichtig);accounts
+account_tag_skr49_006;Sonstige Zweckbetriebe 2 (UST-Frei);accounts
+account_tag_skr49_007;Geschäftsbetriebe Sport (UST-Pflichtig);accounts
+account_tag_skr49_008;Geschäftsbetriebe Nebentätigkeiten Sport;accounts
+account_tag_skr49_009;Sonstige Geschäftsbetriebe 1;accounts
+account_tag_skr49_010;Sonstige Geschäftsbetriebe 2;accounts
+account_tag_skr49_011;Ertragsteuerpflichtig gewordene Zweckbetriebe;accounts
+account_tag_skr49_012;Immaterielle Vermögensgegenstände;accounts
+account_tag_skr49_013;Sachanlagen;accounts
+account_tag_skr49_014;Andere Anlagen, Betriebs- und Geschäftsausstattung;accounts
+account_tag_skr49_015;Finanzanlagen;accounts
+account_tag_skr49_016;Vorräte;accounts
+account_tag_skr49_017;Forderungen, sonstige Vermögensgegenstände;accounts
+account_tag_skr49_018;Wertpapiere;accounts
+account_tag_skr49_019;Liquide Mittel;accounts
+account_tag_skr49_020;Gewinnrücklagen;accounts
+account_tag_skr49_021;Ergebnisvorträge;accounts
+account_tag_skr49_022;Stiftungskapital (nur Stiftungen);accounts
+account_tag_skr49_023;Umschichtungsergebnisse;accounts
+account_tag_skr49_024;Ergebnisrücklagen (nur Stiftungen);accounts
+account_tag_skr49_025;Gezeichnetes Kapital;accounts
+account_tag_skr49_026;Kapitalrücklage (GmbH und Stiftung);accounts
+account_tag_skr49_027;Gewinnrücklagen (nur GmbH);accounts
+account_tag_skr49_028;Jahresüberschuss/-fehlbetrag;accounts
+account_tag_skr49_029;Sonderposten;accounts
+account_tag_skr49_030;Rückstellungen;accounts
+account_tag_skr49_031;Förderungsverpflichtungen;accounts
+account_tag_skr49_032;Verbindlichkeiten aus Lieferungen und Leistungen oder sonstige Vermögensgegenstände;accounts
+account_tag_skr49_033;Nicht anzusetzende Ausgaben;accounts
+account_tag_skr49_034;Ideeller Bereich;accounts
+account_tag_skr49_035;Vermögensverwaltung;accounts
+account_tag_skr49_036;Zweckbetriebe Sport;accounts
+account_tag_skr49_037;Sonstige Zweckbetriebe;accounts
+account_tag_skr49_038;Geschäftsbetriebe Sport;accounts
+account_tag_skr49_039;Sonstige wirtschaftliche Geschäftsbetriebe;accounts
+account_tag_skr49_040;Für alle gemeinnützigen Körperschaften;accounts
+account_tag_skr49_041;Zusätzlich für GmbHs und Stiftungen:;accounts
+account_tag_skr49_042;Zusätzlich für Stiftungen:;accounts
+account_tag_skr49_043;Zusätzlich für gemeinnützige GmbHs:;accounts
+account_tag_skr49_044;Zusätzlich für Vereine:;accounts
+account_tag_skr49_045;Einnahmen GV;accounts
+account_tag_skr49_046;Einnahmen NGV;accounts
+account_tag_skr49_047;Ausgaben / Werbungskosten;accounts
+account_tag_skr49_048;Personalaufwand;accounts
+account_tag_skr49_049;Umsatzerlöse;accounts
+account_tag_skr49_050;Sonstige betriebliche Erträge;accounts
+account_tag_skr49_051;Materialaufwand;accounts
+account_tag_skr49_052;Abschreibungen;accounts
+account_tag_skr49_053;Sonstige betriebliche Aufwendungen;accounts
+account_tag_skr49_054;Statistische Konten;accounts
+account_tag_skr49_055;Statistische Konten für die Kapitalflussrechnung;accounts
+account_tag_skr49_056;Statistische Konten für in der Bilanz Auszuweisende Haftungsverhältnisse;accounts
+account_tag_skr49_057;Statistische Konten für die im Anhang anzugebenden sonstigen finaziellen Verpflichtungen;accounts
+account_tag_skr49_058;Unterscheidsbetrag aus der Abzinsung von Altersversorgungsverpflichtungen nach ⌡ 253 Abs. 6 HGB;accounts
+account_tag_skr49_059;Statistische Konten für Gewinnzuschlag;accounts
+account_tag_skr49_060;Statistische Werte für Anlage EÜR;accounts
+account_tag_skr49_061;Statistische Werte für BWA;accounts
+account_tag_skr49_062;Ergebnisvorträge des laufenden jahres;accounts
+account_tag_skr49_063;Statistische Konten für den außerhalb der Bilanz zu berücksichtigenden Investitionsabzugsbetrag nach ⌡ 7g EStG;accounts
+account_tag_skr49_064;Statistische Konten für außergewöhnliche und aperiodische Geschäftsvorfälle für Anhangsangabe nach ⌡ 285 Nr. 31 und Nr. 32 HGB;accounts
+account_tag_skr49_065;Entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten;accounts
+account_tag_skr49_066;Geschäfts- oder Firmenwert;accounts
+account_tag_skr49_067;Geleistete Anzahlungen;accounts
+account_tag_skr49_068;Grundstücke, Grundstücksgleiche Rechte und Bauten;accounts
+account_tag_skr49_069;Gebäude;accounts
+account_tag_skr49_070;Technische Anlagen und Maschinen;accounts
+account_tag_skr49_071;Fahrzeuge, Transportmittel;accounts
+account_tag_skr49_072;Vereinsausstattung/Sonstige Anlagen und Ausstattung (Stiftung/GmbH);accounts
+account_tag_skr49_073;Sonstige Anlagen und Ausstattung;accounts
+account_tag_skr49_074;Geleistete Anzahlungen, Anlagen im Bau;accounts
+account_tag_skr49_075;Anteile an verbundenen Unternehmen;accounts
+account_tag_skr49_076;Ausleihungen an verbundene Unternehmen;accounts
+account_tag_skr49_077;Beteiligungen;accounts
+account_tag_skr49_078;Ausleihungen an Unternehmen, mit denen ein Beteiligungsverhältnis besteht;accounts
+account_tag_skr49_079;Wertpapiere des Anlagevermögens;accounts
+account_tag_skr49_080;Sonstige Ausleihungen;accounts
+account_tag_skr49_081;Roh-, Hilfs- und Betriebsstoffe;accounts
+account_tag_skr49_082;Unfertige Erzeugnisse, Leistungen;accounts
+account_tag_skr49_083;Fertige Erzeugnisse, Waren;accounts
+account_tag_skr49_084;Erhaltene Anzahlungen;accounts
+account_tag_skr49_085;Eingeforderte, noch ausstehende Kapitaleinlagen (gGmbH/Stiftung);accounts
+account_tag_skr49_086;Eingeforderte Nachschüsse (gGmbH);accounts
+account_tag_skr49_087;Forderungen aus Lieferungen und Leistungen oder sonstige Verbindlichkeiten;accounts
+account_tag_skr49_088;Forderungen aus Lieferungen und Leistungen;accounts
+account_tag_skr49_089;Forderungen gegen verbundene Unternehmen;accounts
+account_tag_skr49_090;Forderungen gegen Unternehmen, mit denen ein Beteiligungsverhältnis besteht;accounts
+account_tag_skr49_091;Forderungen gegen verbundene Unternehmen oder Verbindlichkeiten gegenüber verbundenen Unternehmen;accounts
+account_tag_skr49_092;Forderungen gegen Unternehmen, mit denen ein Beteiligungsverhältnis besteht oder Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht;accounts
+account_tag_skr49_093;Sonstige Vermögensgegenstände;accounts
+account_tag_skr49_094;Sonstige Vermögensgegenstände oder sonstige Verbindlichkeiten;accounts
+account_tag_skr49_095;Sonstige Verbindlichkeiten;accounts
+account_tag_skr49_096;Saldo USt-Konten (nur Überschussrechner);accounts
+account_tag_skr49_097;Sonstige Vermögensgegenstände oder sonstige Verbindlichkeiten (Überschussrechner - keine Zuordnung);accounts
+account_tag_skr49_098;Sonstige Vermögensgegenstände (Überschussrechner - keine Zuordnung);accounts
+account_tag_skr49_099;Sonstige Vermögensgegenstände oder sonstige Verbindlichkeiten (Saldo USt-Konten - Überschussrechner);accounts
+account_tag_skr49_100;Sonstige Vermögensgegenstände oder sonstige Verbindlichkeiten (Saldo USt-Konten -Überschussrechner);accounts
+account_tag_skr49_101;Sonstige Wertpapiere;accounts
+account_tag_skr49_102;Kasse, Bank;accounts
+account_tag_skr49_103;Kasse, Bank oder Verbindlichkeiten gegenüber Kreditinstituten;accounts
+account_tag_skr49_104;Rechnungsabgrenzungsposten;accounts
+account_tag_skr49_105;Gebundene Rücklagen;accounts
+account_tag_skr49_106;Freie Rücklagen;accounts
+account_tag_skr49_107;Sonstige Rücklagen;accounts
+account_tag_skr49_108;Ergebnisvortrag allgemein;accounts
+account_tag_skr49_109;Vortrag ideeller Bereich;accounts
+account_tag_skr49_110;Vortrag Vermögensverwaltung;accounts
+account_tag_skr49_111;Vortrag Zweckbetriebe Sport;accounts
+account_tag_skr49_112;Vortrag sonstige Zweckbetriebe;accounts
+account_tag_skr49_113;Vortrag Geschäftsbetriebe Sport;accounts
+account_tag_skr49_114;Vortrag sonstige Geschäftsbetriebe;accounts
+account_tag_skr49_115;Nutzungsgebundenes Kapital;accounts
+account_tag_skr49_116;Errichtungskapital;accounts
+account_tag_skr49_117;Zustiftungskapital;accounts
+account_tag_skr49_118;Zuführung aus Ergebnisrücklagen;accounts
+account_tag_skr49_119;Ergebnisse Vermögensumschichtung;accounts
+account_tag_skr49_120;Kapitalerhaltungsrücklage;accounts
+account_tag_skr49_121;Ansparrücklage;accounts
+account_tag_skr49_122;Sonstige Ergebnisrücklagen;accounts
+account_tag_skr49_123;Ergebnisvortrag;accounts
+account_tag_skr49_124;Gezeichnetes Kapital (nur GmbH);accounts
+account_tag_skr49_125;Nicht eingeforderte ausstehende Einlagen (GmbH und Stiftung);accounts
+account_tag_skr49_126;Kapitalrücklage;accounts
+account_tag_skr49_127;Gesetzliche Rücklage;accounts
+account_tag_skr49_128;Satzungsmäßige Rücklagen;accounts
+account_tag_skr49_129;Andere Gewinnrücklagen;accounts
+account_tag_skr49_130;Gewinn-/Verlustvortrag;accounts
+account_tag_skr49_131;Vereinskapital/Sonstige nicht zeitnah zu verwendende Mittel (Stiftung/GmbH);accounts
+account_tag_skr49_132;Sonderposten mit Rücklageanteil;accounts
+account_tag_skr49_133;Längerfristig gebundene Spenden;accounts
+account_tag_skr49_134;Noch nicht satzungsgemäß verwendete Spenden;accounts
+account_tag_skr49_135;Pensionsrückstellungen;accounts
+account_tag_skr49_136;Steuerrückstellungen;accounts
+account_tag_skr49_137;Sonstige Rückstellungen;accounts
+account_tag_skr49_138;Bewilligungen (nur Stiftungen);accounts
+account_tag_skr49_139;Rückgängig gemachte Bewilligungen (nur Stiftungen);accounts
+account_tag_skr49_140;Anleihen;accounts
+account_tag_skr49_141;Erhaltene Anzahlungen auf Bestellungen;accounts
+account_tag_skr49_142;Verbindlichkeiten aus Lieferungen und Leistungen gegenüber Gesellschaftern;accounts
+account_tag_skr49_143;Verbindlichkeiten aus Lieferungen und Leistungen;accounts
+account_tag_skr49_144;Verbindlichkeiten Investitionen;accounts
+account_tag_skr49_145;Verbindlichkeiten aus Lieferungen und Leistungen ohne Kontokorrent ;accounts
+account_tag_skr49_146;Verbindlichkeiten aus Wechseln;accounts
+account_tag_skr49_147;Verbindlichkeiten gegenüber verbundenen Unternehmen oder Forderungen gegen verbundene Unternehmen;accounts
+account_tag_skr49_148;Verbindlichkeiten gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht oder Forderungen gegenüber Unternehmen, mit denen ein Beteiligungsverhältnis besteht;accounts
+account_tag_skr49_149;Verbindlichkeiten für satzungsgemäße Leistungen;accounts
+account_tag_skr49_150;Verbindlichkeiten aus erteilten Zusagen (nur Stiftungen);accounts
+account_tag_skr49_151;Verbindlichkeiten aus nicht zweckentsprechend verwendeten Mitteln;accounts
+account_tag_skr49_152;Verbindlichkeiten aus bedingt rückzahlungspflichtigen Spenden;accounts
+account_tag_skr49_153;Verbindlichkeiten gegenüber Kreditinstituten oder Kasse, Bank;accounts
+account_tag_skr49_154;Verbindlichkeiten gegenüber Kreditinstituten;accounts
+account_tag_skr49_155;Sonstige Verbindlichkeiten oder sonstige Vermögensgegenstände;accounts
+account_tag_skr49_156;Sonstige Verbindlichkeiten oder sonstige Vermögensgegenstände (Saldo USt-Konten - Überschussrechner);accounts
+account_tag_skr49_157;Sonstige Verbindlichkeiten (Saldo USt-Konten - Überschussrechner);accounts
+account_tag_skr49_158;Steuerrückstellungen oder sonstige Vermögensgegenstände (Überschussrechner - keine Zuordnung);accounts
+account_tag_skr49_159;Sonstige Verbindlichkeiten (Überschussrechner - keine Zuordnung);accounts
+account_tag_skr49_160;Sonstige Verbindlichkeiten oder sonstige Vermögensgegenstände (Überschussrechner - keine Zuordnung);accounts
+account_tag_skr49_161;Sonstige nicht steuerbare Einnahmen;accounts
+account_tag_skr49_162;Mitgliedsbeiträge;accounts
+account_tag_skr49_163;Aufnahmegebühren;accounts
+account_tag_skr49_164;Zuschüsse;accounts
+account_tag_skr49_165;Abschreibungen;accounts
+account_tag_skr49_166;Übrige Ausgaben;accounts
+account_tag_skr49_167;Personalkosten;accounts
+account_tag_skr49_168;Reisekosten;accounts
+account_tag_skr49_169;Raumkosten;accounts
+account_tag_skr49_170;Sonstige steuerneutrale Einnahmen;accounts
+account_tag_skr49_171;Schenkungen;accounts
+account_tag_skr49_172;Erbschaften/Vermächtnisse;accounts
+account_tag_skr49_173;Spenden;accounts
+account_tag_skr49_174;Sonstige nicht abziehbare Ausgaben;accounts
+account_tag_skr49_175;Gezahlte/hingegebene Spenden;accounts
+account_tag_skr49_176;Steuerneutrale Einnahmen;accounts
+account_tag_skr49_177;Nicht abziehbare Ausgaben;accounts
+account_tag_skr49_178;Ergebnisverwendung;accounts
+account_tag_skr49_179;Sonstige ertragsteuerfreie Einnahmen gemeinnütziger Vereine (gV);accounts
+account_tag_skr49_180;Miet- und Pachterträge (gV);accounts
+account_tag_skr49_181;Zins- und Kurserträge (gV);accounts
+account_tag_skr49_182;Erträge Werbung (gV);accounts
+account_tag_skr49_183;Sonstige ertragsteuerpflichtige Einnahmen nicht gemeinnütziger Vereine (ngV);accounts
+account_tag_skr49_184;Miet- und Pachterträge (ngV);accounts
+account_tag_skr49_185;Zins- und Kurserträge (ngV);accounts
+account_tag_skr49_186;Sonstige Ausgaben;accounts
+account_tag_skr49_187;Löhne und Gehälter;accounts
+account_tag_skr49_188;Soziale Abgaben;accounts
+account_tag_skr49_189;aus Eintrittsgeldern;accounts
+account_tag_skr49_190;aus Sportreisen;accounts
+account_tag_skr49_191;aus sonstigen sportlichen Veranstaltungen;accounts
+account_tag_skr49_192;aus Leistungen an Mitglieder;accounts
+account_tag_skr49_193;aus veranstaltungsgebundenen Zuschüssen;accounts
+account_tag_skr49_194;aus Sonstigem;accounts
+account_tag_skr49_195;Umsatzerlöse aus Sonstigem;accounts
+account_tag_skr49_196;Sonstige betriebliche Erträge;accounts
+account_tag_skr49_197;Aufwendungen für RHB/bezogene Waren;accounts
+account_tag_skr49_198;Aufwendungen für bezogene Leistungen;accounts
+account_tag_skr49_199;Immaterielle Vermögensgegenstände und Sachanlagen;accounts
+account_tag_skr49_200;Sonstige Kosten Zweckbetrieb Sport;accounts
+account_tag_skr49_201;Umlaufvermögen, unüblich hoch;accounts
+account_tag_skr49_202;Entschädigungen, Sportveranstaltungen;accounts
+account_tag_skr49_203;Kosten der Sportanlagen;accounts
+account_tag_skr49_204;Allgemeine Kosten des Sportbetriebs;accounts
+account_tag_skr49_205;Betriebskosten Fahrzeuge, Transportmittel;accounts
+account_tag_skr49_206;Betriebskosten Ausstattung, Sportgeräte;accounts
+account_tag_skr49_207;aus Sportunterricht (⌡ 4 Nr. 22a UStG);accounts
+account_tag_skr49_208;aus Teilnehmergebühren;accounts
+account_tag_skr49_209;aus Sportunterricht Jugendhilfe;accounts
+account_tag_skr49_210;aus sportlichen Veranstaltungen Jugendhilfe;accounts
+account_tag_skr49_211;Aufwendungen für Roh-, Hilfs- und Betriebsstoffe/bezogene Waren;accounts
+account_tag_skr49_212;Sonstoge Kosten;accounts
+account_tag_skr49_213;Sportunterricht;accounts
+account_tag_skr49_214;Darbietungen Jugendlicher und Erwachsener;accounts
+account_tag_skr49_215;Sonstige Kosten;accounts
+account_tag_skr49_216;Ergebnisumbuchung nach 8980;accounts
+account_tag_skr49_217;Umsatzerlöse;accounts
+account_tag_skr49_218;Bestandsveränderung;accounts
+account_tag_skr49_219;Andere aktivierte Eigenleistungen;accounts
+account_tag_skr49_220;Einnahmen aus Umsatzerlösen;accounts
+account_tag_skr49_221;Sonstige betriebliche Aufwendungen;accounts
+account_tag_skr49_222;Zinsen und ähnliche Aufwendungen;accounts
+account_tag_skr49_223;Sonstige Steuern;accounts
+account_tag_skr49_224;Umsatzerlöse aus bezahltem Sport;accounts
+account_tag_skr49_225;Umsatzerlöseaus Fußball mit Lizenzspielern;accounts
+account_tag_skr49_226;Veranstaltungsabhängige Kosten;accounts
+account_tag_skr49_227;Sonstige Steuern, Abgaben;accounts
+account_tag_skr49_228;Kommerzielle Werbung;accounts
+account_tag_skr49_229;Kurzfristige Vermietung von Sportstätten an Nichtmitglieder;accounts
+account_tag_skr49_230;Sonstiges;accounts
+account_tag_skr49_231;Ausgaben für Werbung;accounts
+account_tag_skr49_232;Ausgaben zur Sportstättenvermietung;accounts
+account_tag_skr49_233;Sonstige Zinsen und ähnliche Einnahmen;accounts
+account_tag_skr49_234;Ausgaben für Roh-, Hilfs- und Betriebsstoffe und für bezogene Waren;accounts
+account_tag_skr49_235;Erträge aus Beteiligungen;accounts
+account_tag_skr49_236;Erträge aus anderen Wertpapieren;accounts
+account_tag_skr49_237;Sonstige Zinsen und ähnliche Erträge;accounts
+account_tag_skr49_238;Abschreibungen auf Finanzanlagen;accounts
+account_tag_skr49_239;Erträge/Einnahmen;accounts
+account_tag_skr49_240;Aufwendungen/Ausgaben;accounts
+account_tag_skr49_241;Steuerrechtlicher Ausgleichsposten (Bilanzierer);accounts
