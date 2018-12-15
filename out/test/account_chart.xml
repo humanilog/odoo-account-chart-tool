@@ -4,7 +4,7 @@
     <field name="name">Geldtransit</field>
     <field name="code">0705</field>
     <field eval="True" name="reconcile"/>
-    <field name="user_type_id" ref="account.data_account_type_current_assets"/>
+    <field name="user_type_id" ref="data_account_type_current_assets"/>
     <field eval="[(6,0,[ref('account_tag_skr49_003'), ref('account_tag_skr49_009')])]" name="tag_ids"/>
   </record>
   <record id="l10n_chart_de_skr49" model="account.chart.template">
@@ -19,7 +19,7 @@
     <field name="name">Entgeltlich erworbene Konzessionen, gewerbliche Schutzrechte und ähnliche Rechte und Werte sowie Lizenzen an solchen Rechten und Werten</field>
     <field name="code">0010</field>
     <field eval="False" name="reconcile"/>
-    <field name="user_type_id" ref="account.data_account_type_non_current_assets"/>
+    <field name="user_type_id" ref="data_account_type_non_current_assets"/>
     <field name="chart_template_id" ref="l10n_chart_de_skr49"/>
     <field eval="[(6,0,[ref('account_tag_skr49_001'), ref('account_tag_skr49_004')])]" name="tag_ids"/>
   </record>
@@ -27,7 +27,7 @@
     <field name="name">Konzessionen</field>
     <field name="code">0015</field>
     <field eval="False" name="reconcile"/>
-    <field name="user_type_id" ref="account.data_account_type_equity"/>
+    <field name="user_type_id" ref="data_account_type_equity"/>
     <field name="chart_template_id" ref="l10n_chart_de_skr49"/>
     <field eval="[(6,0,[ref('account_tag_skr49_001'), ref('account_tag_skr49_005')])]" name="tag_ids"/>
   </record>
@@ -35,7 +35,7 @@
     <field name="name">Gewerbliche Schutzrechte</field>
     <field name="code">0020</field>
     <field eval="False" name="reconcile"/>
-    <field name="user_type_id" ref="account.data_account_type_non_current_assets"/>
+    <field name="user_type_id" ref="data_account_type_non_current_assets"/>
     <field name="chart_template_id" ref="l10n_chart_de_skr49"/>
     <field eval="[(6,0,[ref('account_tag_skr49_002'), ref('account_tag_skr49_006')])]" name="tag_ids"/>
   </record>
@@ -43,7 +43,7 @@
     <field name="name">ähnliche Rechte und Werte</field>
     <field name="code">0025</field>
     <field eval="True" name="reconcile"/>
-    <field name="user_type_id" ref="account.data_account_type_non_current_assets"/>
+    <field name="user_type_id" ref="data_account_type_non_current_assets"/>
     <field name="chart_template_id" ref="l10n_chart_de_skr49"/>
     <field eval="[(6,0,[ref('account_tag_skr49_002'), ref('account_tag_skr49_007')])]" name="tag_ids"/>
   </record>
@@ -51,7 +51,7 @@
     <field name="name">Rechtswerte</field>
     <field name="code">0026</field>
     <field eval="False" name="reconcile"/>
-    <field name="user_type_id" ref="account.data_account_type_non_current_assets"/>
+    <field name="user_type_id" ref="data_account_type_non_current_assets"/>
     <field name="chart_template_id" ref="l10n_chart_de_skr49"/>
     <field eval="[(6,0,[ref('account_tag_skr49_002'), ref('account_tag_skr49_008')])]" name="tag_ids"/>
   </record>
@@ -59,7 +59,7 @@
     <field name="name">EDV-Software</field>
     <field name="code">0027</field>
     <field eval="False" name="reconcile"/>
-    <field name="user_type_id" ref="account.data_account_type_non_current_assets"/>
+    <field name="user_type_id" ref="data_account_type_non_current_assets"/>
     <field name="chart_template_id" ref="l10n_chart_de_skr49"/>
     <field eval="[(6,0,[ref('account_tag_skr49_003'), ref('account_tag_skr49_008')])]" name="tag_ids"/>
   </record>
@@ -67,7 +67,7 @@
     <field name="name">Lizenzen an gewerblichen Schutzrechten</field>
     <field name="code">0030</field>
     <field eval="False" name="reconcile"/>
-    <field name="user_type_id" ref="account.data_account_type_non_current_assets"/>
+    <field name="user_type_id" ref="data_account_type_non_current_assets"/>
     <field name="chart_template_id" ref="l10n_chart_de_skr49"/>
     <field eval="[(6,0,[ref('account_tag_skr49_003'), ref('account_tag_skr49_009')])]" name="tag_ids"/>
   </record>
@@ -75,7 +75,7 @@
     <field name="name">Geschäfts- oder Firmenwert</field>
     <field name="code">0035</field>
     <field eval="True" name="reconcile"/>
-    <field name="user_type_id" ref="account.data_account_type_non_current_assets"/>
+    <field name="user_type_id" ref="data_account_type_non_current_assets"/>
     <field name="chart_template_id" ref="l10n_chart_de_skr49"/>
     <field eval="[(6,0,[ref('account_tag_skr49_003'), ref('account_tag_skr49_009')])]" name="tag_ids"/>
   </record>
@@ -83,7 +83,7 @@
     <field name="name">the 0652</field>
     <field name="code">0652</field>
     <field eval="True" name="reconcile"/>
-    <field name="user_type_id" ref="account.data_account_type_current_assets"/>
+    <field name="user_type_id" ref="data_account_type_current_assets"/>
     <field name="chart_template_id" ref="l10n_chart_de_skr49"/>
     <field eval="[(6,0,[ref('account_tag_skr49_003'), ref('account_tag_skr49_009')])]" name="tag_ids"/>
   </record>
@@ -91,7 +91,7 @@
     <field name="name">the 1346</field>
     <field name="code">1346</field>
     <field eval="True" name="reconcile"/>
-    <field name="user_type_id" ref="account.data_account_type_current_assets"/>
+    <field name="user_type_id" ref="data_account_type_current_assets"/>
     <field name="chart_template_id" ref="l10n_chart_de_skr49"/>
     <field eval="[(6,0,[ref('account_tag_skr49_003'), ref('account_tag_skr49_009')])]" name="tag_ids"/>
   </record>
@@ -99,7 +99,7 @@
     <field name="name">the 8154</field>
     <field name="code">8154</field>
     <field eval="True" name="reconcile"/>
-    <field name="user_type_id" ref="account.data_account_type_current_assets"/>
+    <field name="user_type_id" ref="data_account_type_current_assets"/>
     <field name="chart_template_id" ref="l10n_chart_de_skr49"/>
     <field eval="[(6,0,[ref('account_tag_skr49_003'), ref('account_tag_skr49_009')])]" name="tag_ids"/>
   </record>
@@ -107,7 +107,7 @@
     <field name="name">the 8030</field>
     <field name="code">8030</field>
     <field eval="True" name="reconcile"/>
-    <field name="user_type_id" ref="account.data_account_type_current_assets"/>
+    <field name="user_type_id" ref="data_account_type_current_assets"/>
     <field name="chart_template_id" ref="l10n_chart_de_skr49"/>
     <field eval="[(6,0,[ref('account_tag_skr49_003'), ref('account_tag_skr49_009')])]" name="tag_ids"/>
   </record>
@@ -115,7 +115,7 @@
     <field name="name">the 4154</field>
     <field name="code">4154</field>
     <field eval="True" name="reconcile"/>
-    <field name="user_type_id" ref="account.data_account_type_current_assets"/>
+    <field name="user_type_id" ref="data_account_type_current_assets"/>
     <field name="chart_template_id" ref="l10n_chart_de_skr49"/>
     <field eval="[(6,0,[ref('account_tag_skr49_003'), ref('account_tag_skr49_009')])]" name="tag_ids"/>
   </record>
@@ -123,7 +123,7 @@
     <field name="name">the 4715</field>
     <field name="code">4715</field>
     <field eval="True" name="reconcile"/>
-    <field name="user_type_id" ref="account.data_account_type_current_assets"/>
+    <field name="user_type_id" ref="data_account_type_current_assets"/>
     <field name="chart_template_id" ref="l10n_chart_de_skr49"/>
     <field eval="[(6,0,[ref('account_tag_skr49_003'), ref('account_tag_skr49_009')])]" name="tag_ids"/>
   </record>
@@ -132,7 +132,7 @@
     <field name="code">1234</field>
     <field eval="True" name="reconcile"/>
     <field eval="True" name="deprecated"/>
-    <field name="user_type_id" ref="account.data_account_type_current_assets"/>
+    <field name="user_type_id" ref="data_account_type_current_assets"/>
     <field name="chart_template_id" ref="l10n_chart_de_skr49"/>
     <field eval="[(6,0,[ref('account_tag_skr49_003'), ref('account_tag_skr49_009')])]" name="tag_ids"/>
   </record>
@@ -140,7 +140,7 @@
     <field name="name">just one tag</field>
     <field name="code">1235</field>
     <field eval="True" name="reconcile"/>
-    <field name="user_type_id" ref="account.data_account_type_current_assets"/>
+    <field name="user_type_id" ref="data_account_type_current_assets"/>
     <field name="chart_template_id" ref="l10n_chart_de_skr49"/>
     <field eval="[(6,0,[ref('account_tag_skr49_003')])]" name="tag_ids"/>
   </record>
@@ -148,7 +148,7 @@
     <field name="name">without any tags</field>
     <field name="code">1236</field>
     <field eval="True" name="reconcile"/>
-    <field name="user_type_id" ref="account.data_account_type_current_assets"/>
+    <field name="user_type_id" ref="data_account_type_current_assets"/>
     <field name="chart_template_id" ref="l10n_chart_de_skr49"/>
   </record>
   <record id="l10n_chart_de_skr49" model="account.chart.template">

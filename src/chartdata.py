@@ -60,7 +60,7 @@ def create_account_record(account, data):
     SubElement(record, 'field', {'name': 'reconcile', 'eval': account.reconcile.title()})
     if account.deprecated.title() == "True":
         SubElement(record, 'field', {'name': 'deprecated', 'eval': account.deprecated.title()})
-    SubElement(record, 'field', {'name': 'user_type_id', 'ref': "account.{}".format(account.user_type_id)})
+    SubElement(record, 'field', {'name': 'user_type_id', 'ref': account.user_type_id})
     if account.code != account_705_code:
         SubElement(record, 'field', {'name': 'chart_template_id', 'ref': chart_template_id})
     if account.tag_id1 or account.tag_id2 or account.tag_id3:
